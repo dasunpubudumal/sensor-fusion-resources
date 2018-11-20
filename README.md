@@ -1,6 +1,6 @@
 # Resources for Multimodal Sensor Fusion
 
-This repository contains information on Multimodal Sensor Fusion paradigms, concepts, theories and technologies. This repository contains the studies related to the field, and the supplementing studies including analytics of streams.
+This repository contains information on Multimodal Sensor Fusion paradigms, concepts, theories and technologies, including the studies related to the field, and the supplementing studies including analytics of streams as well.
 
 ## Blogs on Sensor Fusion
 
