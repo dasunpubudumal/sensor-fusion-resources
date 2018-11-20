@@ -6,6 +6,7 @@ This repository contains information on Multimodal Sensor Fusion paradigms, conc
 
 1. [Multimodal Data Fusion: An Overview of Methods, Challenges and Prospects](https://hal.archives-ouvertes.fr/hal-01179853/document)
 2. [Sensor Fusion Tutorial](https://datascopeanalytics.com/blog/sensor-fusion-tutorial/)
+3. [Handbook of Multisensor Data Fusion](http://digilib.polban.ac.id/download.php?id=2402)
 
 ## Video, Audio Stream Analytics
 
